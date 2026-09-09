@@ -120,7 +120,7 @@ The report consists of **three dedicated pages**, each serving a distinct layer 
 
 ### 📄 Dashboard 1 — Summary
 
-![Summary Dashboard](Images/Summary Dashboard.png)
+![Summary Dashboard](Images/Summary%20Dashboard.png)
 
 **Purpose:**
 Provide a high-level, at-a-glance view of overall loan portfolio health for executives and stakeholders.
@@ -138,7 +138,7 @@ Enables leadership to instantly assess total lending volume, capital recovery, a
 
 ### 📄 Dashboard 2 — Overview
 
-![Overview Dashboard](Images/Overview Dashboard.png)
+![Overview Dashboard](Images/Overview%20Dashboard.png)
 
 **Purpose:**
 Break down loan performance across time, geography, and borrower characteristics to identify trends and concentration areas.
@@ -159,7 +159,7 @@ Helps risk and strategy teams spot growth trends, geographic exposure, and which
 
 ### 📄 Dashboard 3 — Details
 
-![Details Dashboard](Images/Details Dasboard.png)
+![Details Dashboard](Images/Details%20Dashboard.png)
 
 **Purpose:**
 Provide a granular, record-level view of individual loans for audit, investigation, and ad-hoc analysis.
